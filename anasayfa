@@ -1,0 +1,38 @@
+<html>
+<head>
+<title> Çelik Tayfa </title>
+	<style type="text/css">
+	h1 {text-align:center;}
+	body {background-color:#2F3136}
+	p {color:#969696;
+		text-indent:20px;}
+	c {color:#ffffff;}
+	al {color:#ffff00}
+	e {color:#00fff1}
+	n {color:#000000}
+	ce {color:#95A5A6}
+	</style>
+</head>
+<body>
+<hr color=#ffff00/>
+<h1> Discord Sunucumuz </h1>
+<hr color=#ffff00/>
+<p> Etkinlikler, duyurular, yardımlaşma ve eğlence için <c> sunucumuza </c> sen de gel! </p>
+<a href="https://www.discord.gg/AnMARy3" title="Discord Sunucumuz"> <img src=Discord.png width=200> </a> </p>
+ <img src=Discord_g2.png width=17%> <a href=#Seviye> <img src=Discord_g5.png width=17%> </a> <img src=Discord_g1.png width=17%> <img src=Discord_g4.png width=17%> <img src=Discord_g3.png width=17%> 
+<hr color=#ffff00/>
+	<a name=Seviye>
+	<!-- Seviye Sistemi -->
+<h2> <ins> Seviye Rollerimiz </ins> </h2>
+<p> Sunucumuzda <c> 5 </c> adet <c> seviye rolü </c> vardır. Bunlar; <c> Demir </c>, <al> Altın </al>, <e> Elmas </e>, <n> Netherite </n> ve <ce> Çelik</ce>'tir.
+<hr/>
+<h4> Seviye Rolleri Hangi Seviyelerde Alınır? </h4>
+<list>
+	<ul> <b><c> Demir >> </c></b><c> 10 Seviye </c> </ul>
+	<ul> <b><al> Altın >> </b></al> <c> 25 Seviye </c> </ul>
+	<ul> <b><e> Elmas >> </b></e> <c> 40 Seviye </c> </ul>
+	<ul> <b><n> Netherite >> </b></n> <c> 60 Seviye </c> </ul>
+	<ul> <b><ce> Çelik >> </b></ce> <c> 75 Seviye </c> </ul>
+</list>
+</body>
+</html>
